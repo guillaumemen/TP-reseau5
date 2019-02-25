@@ -2,7 +2,7 @@
 ## I. Préparation du lab
 Suivre les indications données dans le TP.
 
-![capture](Capture.PNG)
+![capture](phototp.PNG)
 
 Machines :
 
